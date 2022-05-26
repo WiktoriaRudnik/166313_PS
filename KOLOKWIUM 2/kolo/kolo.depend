@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653585399 source:c:\users\local\downloads\boisko-szablon-20220526t153816z-001\boisko-szablon\boisko.c
+	<stdio.h>
+	<string.h>
+	"boisko.h"
+
+1653585926 c:\users\local\downloads\boisko-szablon-20220526t153816z-001\boisko-szablon\boisko.h
+	<stdbool.h>
+
+1653586465 source:c:\users\local\downloads\boisko-szablon-20220526t153816z-001\boisko-szablon\main.c
+	<stdio.h>
+	"boisko.h"
+	<string.h>
+
